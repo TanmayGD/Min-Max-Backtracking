@@ -1,6 +1,4 @@
 Author: Tanmay Gopaldas Dadhania / tgd8275
-Collaborators: ts5098,rk4748
-My python file does not use any special libraries and can be run on any OS with a python interpreter.
 
 Instructions for running:
 1. Order of the arguments presented does not matter.
